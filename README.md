@@ -25,3 +25,51 @@ Quiero que me enseñen una muestra <i>simulada</i> sin datos reales de como func
 <p align="center">
 	 <img src="https://github.com/ginppian/Excel-Formato_Condicional/blob/master/imgs/img1.png" width="569" height="380"> 
 </p>
+
+* No. Lista
+
+<p align="justify">
+	Basta con hacer una <b>serie</b> de números consecutivos.
+En la primera celda colocamos 1, en la celda inferior 2 y arrastramos hasta el número 50. Fácil.
+</p>
+
+* Nombre
+
+<p align="justify">
+	Cómo queremos nombres <b>aleatorios</b> usaremos la función:
+</p>
+
+```
+=ALEATORIO.ENTRE(inferior,superior)
+```
+
+<p align="justify">
+	pero esta función nos regresa un <i>número</i> NO una letra. Para ese fin usaremos la función:
+</p>
+
+```
+=CARACTER(numero)
+```
+
+<p align="justify">
+la cual nos pide como parámetro un número, porque usa la tabla <b>ASCII</b> :S ¿Qué es la <i>tabla ASCII</i>?
+</p>
+
+
+<p align="justify">
+<i>American Standard Code for Information Interchange</i> código basado en el alfabeto latino, es un método para una correspondencia entre cadenas de bits (números) y una serie de símbolos:
+</p>
+
+<p align="justify">
+Alt + 1 = ☺
+Alt + 2 = ☻ ...
+Alt + 64=@ ...
+Alt +100=d ... 
+</p>
+
+<p align="center">
+	 <img src="https://github.com/ginppian/Excel-Formato_Condicional/blob/master/imgs/img1.png" width="569" height="380"> 
+</p>
+
+
+
