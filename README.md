@@ -21,5 +21,5 @@ Quiero que me enseñen una muestra <i>simulada</i> sin datos reales de como func
 </p>
 
 <p align="center">
-	 <img src="smiley.gif" width="42" height="42"> 
+	 <img src="https://github.com/ginppian/Excel-Formato_Condicional/blob/master/imgs/img1.png" width="569" height="380"> 
 </p>
