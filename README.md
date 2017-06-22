@@ -68,7 +68,7 @@ Alt +100=d ...
 </p>
 
 <p align="center">
-	 <img src="https://github.com/ginppian/Excel-Formato_Condicional/blob/master/imgs/img1.png" width="569" height="380"> 
+	 <img src="https://github.com/ginppian/Excel-Formato_Condicional/blob/master/imgs/img2.jpg" width="400" height="279"> 
 </p>
 
 
