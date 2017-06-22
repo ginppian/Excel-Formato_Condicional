@@ -57,7 +57,7 @@ la cual nos pide como parámetro un número, porque usa la tabla <b>ASCII</b> :S
 
 
 <p align="justify">
-<i>American Standard Code for Information Interchange</i> código basado en el alfabeto latino, es un método para una correspondencia entre cadenas de bits (números) y una serie de símbolos:
+<i>American Standard Code for Information Interchange</i> código basado en el alfabeto latino. Es un método para una correspondencia entre cadenas de bits (números) y una serie de símbolos:
 </p>
 
 <p align="center">
