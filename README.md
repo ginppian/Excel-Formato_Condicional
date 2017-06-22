@@ -60,15 +60,15 @@ la cual nos pide como parámetro un número, porque usa la tabla <b>ASCII</b> :S
 <i>American Standard Code for Information Interchange</i> código basado en el alfabeto latino, es un método para una correspondencia entre cadenas de bits (números) y una serie de símbolos:
 </p>
 
-<p align="justify">
-Alt + 1 = ☺
-Alt + 2 = ☻ ...
-Alt + 64=@ ...
-Alt +100=d ... 
+<p align="center">
+Alt + 1 = ☺<br>
+Alt + 2 = ☻ ...<br>
+Alt + 64=@ ...<br>
+Alt +100=d ...<br>
 </p>
 
 <p align="center">
-	 <img src="https://github.com/ginppian/Excel-Formato_Condicional/blob/master/imgs/img2.jpg" width="400" height="279"> 
+	 <img src="https://github.com/ginppian/Excel-Formato_Condicional/blob/master/imgs/img2.jpg" width="800" height="558"> 
 </p>
 
 
