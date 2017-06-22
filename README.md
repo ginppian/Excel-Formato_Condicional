@@ -5,7 +5,9 @@ Formato Condicional
 	El formato condicional en Excel es una se da un formato en base al valor de cada celda. Esto color de relleno diferente para aquellas celdas que cumplan con ciertas reglas y así poder identificarlas fácilmente en pantalla.
 </p>
 
-## Ejemplo 1 - Lista de promedios
+## Ejemplo - Lista de promedios
+
+### Descripción
 
 <p align="justify">
 	Hola, Soy profesor de la clase de <i>Matemáticas</i> en el instituto Pato. 
@@ -14,7 +16,7 @@ Mi salón está conformado por 50 alumnos, los cuales presentan 3 exámenes parc
 Quiero que me enseñen una muestra <i>simulada</i> sin datos reales de como funcionaría la hoja de Excel, para poder comprarla, gracias.
 </p>
 
-* Simulación
+### Simulación
 
 <p align="justify">
 	Vamos a <b>simular</b> los nombres y las notas, para que se vea algo así:
