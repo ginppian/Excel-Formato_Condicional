@@ -168,6 +168,30 @@ Vamos a <i>Administrar Reglas</i>
 	 <img src="https://github.com/ginppian/Excel-Formato_Condicional/blob/master/imgs/img3.png" width="1211" height="450"> 
 </p>
 
+<p align="justify">
+<i>Nueva Regla</i>
+</p>
+
+<p align="center">
+	 <img src="https://github.com/ginppian/Excel-Formato_Condicional/blob/master/imgs/img4.png" width="1211" height="450"> 
+</p>
+
+<p align="justify">
+	Y veremos algo así:
+</p>
+
+<p align="center">
+	 <img src="https://github.com/ginppian/Excel-Formato_Condicional/blob/master/imgs/img5.png" width="1211" height="450"> 
+</p>
+
+<p align="justify">
+	Los <i>tipos</i> de regla son diferentes, yo te recomiendo principalmente 3 para los siguientes propósitos:
+</p>
+
+1. Para evaluar <b>numeros</b>.
+2. Para evaluar <b>texto</b>.
+3. Para evaluar en base a una <b>formula</b> personalizada.
+
 ## Contacto
 Twitter: @ginppian
 
