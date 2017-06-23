@@ -26,14 +26,14 @@ Quiero que me enseñen una muestra <i>simulada</i> sin datos reales de como func
 	 <img src="https://github.com/ginppian/Excel-Formato_Condicional/blob/master/imgs/img1.png" width="569" height="380"> 
 </p>
 
-#### No. Lista
+#### 1. No. Lista
 
 <p align="justify">
 	Basta con hacer una <b>serie</b> de números consecutivos.
 En la primera celda colocamos 1, en la celda inferior 2 y arrastramos hasta el número 50. Fácil.
 </p>
 
-#### Nombre
+#### 2. Nombre
 
 <p align="justify">
 	Cómo queremos nombres <b>aleatorios</b> usaremos la función:
@@ -90,7 +90,7 @@ Alt +100=d ...<br>
 	1. Entre <b>65:90</b> porque son las letras Mayusculas
 	2. Generamos dos letras <i>Aleatorias</i> y un número entre 1 y 10 para generar su nombre.
 
-#### N Parcial
+#### 3. N Parcial
 
 Bastara usar la función:
 
@@ -98,7 +98,7 @@ Bastara usar la función:
 =ALEATORIO.ENTRE(0,10)
 ```
 
-#### Total
+#### 4. Total
 
 Usaremos:
 
@@ -138,6 +138,19 @@ Ejemplo:
 pues contó 4 dígitos después del punto, y ese número que corresponde al <b>4to número</b> lo usa para <i>redondear</i>.
 </p>
 
+#### 5. Formato de tabla
+
+<p align="justify">
+Un <b>shortcut</b> para seleccionar toda la <i>matriz</i>:
+</p>
+
+```
+Shift (⇧) + Ctrl + Espacio 
+```
+
+<p align="justify">
+<i>Inicio > Estilos > Dar formato como tabla</i>
+</p>
 
 
 
