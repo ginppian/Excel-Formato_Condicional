@@ -192,6 +192,52 @@ Vamos a <i>Administrar Reglas</i>
 2. Para evaluar <b>texto</b>.
 3. Para evaluar en base a una <b>formula</b> personalizada.
 
+<p align="justify">
+	En este caso como estamos evaluando números seleccionamos la primera.
+</p>
+
+<p align="center">
+	 <img src="https://github.com/ginppian/Excel-Formato_Condicional/blob/master/imgs/img6.png" width="510" height="411"> 
+</p>
+
+<p align="justify">
+	Podemos trabajar con: 2 colores, 3 colores, iconos, etc. Seleccionaremos <i>conjunto de iconos</i>
+</p>
+
+<p align="center">
+	 <img src="https://github.com/ginppian/Excel-Formato_Condicional/blob/master/imgs/img7.png" width="510" height="411"> 
+</p>
+
+<p align="justify">
+	Cambiamos el <i>tipo de dato</i> a <b>número</b> y agregamos nuestros <i>valores condicionales</i> y damos <i>aceptar</i>.
+</p>
+
+<p align="center">
+	 <img src="https://github.com/ginppian/Excel-Formato_Condicional/blob/master/imgs/img9.png" width="1211" height="450"> 
+</p>
+
+<p align="justify">
+	Por último nos sale una ventana donde nos dice a dónde se <i>aplicará</i>. 
+Podemos ver:
+</p>
+
+
+```
+=$J$4
+```
+
+<p align="justify">
+	Las <b>$</b> indican que esa <i>referencia</i> no se moverá. Es decir, que el <i>FORMATO CONDICIONAL</i> sólo se aplicará a esa celda, si queremos <i>recorrer</i> a las demás celdas, bastará con quitarle las <b>$</b> y darle aceptar, o picar el la <i>flechita</i> y con el mouse seleccionar todas las celdas que queramos que tengan esa <i>regla</i>.
+</p>
+
+<p align="justify">
+	Al final se vería algo así:
+</p>
+
+<p align="center">
+	 <img src="https://github.com/ginppian/Excel-Formato_Condicional/blob/master/imgs/img10.png" width="510" height="411"> 
+</p>
+
 ## Contacto
 Twitter: @ginppian
 
