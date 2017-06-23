@@ -235,7 +235,7 @@ Podemos ver:
 </p>
 
 <p align="center">
-	 <img src="https://github.com/ginppian/Excel-Formato_Condicional/blob/master/imgs/img10.png" width="510" height="411"> 
+	 <img src="https://github.com/ginppian/Excel-Formato_Condicional/blob/master/imgs/img10.png" width="1211" height="450"> 
 </p>
 
 ## Contacto
