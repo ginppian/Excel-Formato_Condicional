@@ -88,6 +88,7 @@ Alt +100=d ...<br>
 ```
 
 	1. Elegimos el rango entre 65 y 90 porque son las letras Mayusculas.
+
 	2. Generamos dos letras Aleatorias y un número entre 1 y 10 para generar su nombre.
 
 #### 3. N Parcial
