@@ -111,7 +111,8 @@ El <i>PROMEDIO</i> nos regresa valores con <i>punto decimal</i> podríamos dejar
 </p>
 
 <p align="justify">
-La función <b>REDONDEAR</b> funciona redondeando igual o mayor a <i>.5</i> redonda hacia <i>ARRIBA</i> y <i>menor</i> a <i>.5</i> hacia abajo. Ejemplo:
+<b>REDONDEAR</b> funciona redondeando hacia <i>ARRIBA</i> valores igual o mayor(=>) a <b>.5</b> y redondeando hacia <i>ABAJO</i>redonda valores menores(<) que <b>.5</b>.
+Ejemplo:
 </p>
 
 <p align="center">
