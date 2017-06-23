@@ -16,7 +16,7 @@ Mi salón está conformado por 50 alumnos, los cuales presentan 3 exámenes parc
 Quiero que me enseñen una muestra <i>simulada</i> sin datos reales de como funcionaría la hoja de Excel, para poder comprarla, gracias.
 </p>
 
-### Simulación
+### A. Simulación
 
 <p align="justify">
 	Vamos a <b>simular</b> los nombres y las notas, para que se vea algo así:
@@ -88,7 +88,6 @@ Alt +100=d ...<br>
 ```
 
 	1. Elegimos el rango entre 65 y 90 porque son las letras Mayusculas.
-
 	2. Generamos dos letras Aleatorias y un número entre 1 y 10 para generar su nombre.
 
 #### 3. N Parcial
@@ -152,8 +151,25 @@ Shift (⇧) + Ctrl + Espacio
 <p align="justify">
 <i>Inicio > Estilos > Dar formato como tabla</i>
 
-Seleccionamos estilo de tabla cool 😎 
+Seleccionamos un estilo de tabla cool 😎 
 </p>
+
+### B. Formato Condicional
+
+<p align="justify">
+Seleccionamos la <i>celda</i> que queremos y nos vamos a <i>Inicio > Formato Condicional</i>. Aun que <i>Excel</i> ya nos da unas opciones por <i>defecto</i> es conveniente que nos otros creemos nuestras propias <b>reglas</b> ya que debemos tener la certeza de toda nuestra información esté <i>correctamente</i> evaluada.
+</p>
+
+<p align="justify">
+Vamos a <i>Administrar Reglas</i>
+</p>
+
+<p align="center">
+	 <img src="https://github.com/ginppian/Excel-Formato_Condicional/blob/master/imgs/img3.png" width="1211" height="450"> 
+</p>
+
+## Contacto
+Twitter: @ginppian
 
 
 
