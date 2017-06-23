@@ -26,14 +26,14 @@ Quiero que me enseñen una muestra <i>simulada</i> sin datos reales de como func
 	 <img src="https://github.com/ginppian/Excel-Formato_Condicional/blob/master/imgs/img1.png" width="569" height="380"> 
 </p>
 
-* No. Lista
+#### No. Lista
 
 <p align="justify">
 	Basta con hacer una <b>serie</b> de números consecutivos.
 En la primera celda colocamos 1, en la celda inferior 2 y arrastramos hasta el número 50. Fácil.
 </p>
 
-* Nombre
+#### Nombre
 
 <p align="justify">
 	Cómo queremos nombres <b>aleatorios</b> usaremos la función:
@@ -71,7 +71,7 @@ Alt +100=d ...<br>
 	 <img src="https://github.com/ginppian/Excel-Formato_Condicional/blob/master/imgs/img2.jpg" width="800" height="558"> 
 </p>
 
-* Concatener el Resultado de una Función con Texto:
+* <i>Concatenar</i> el Resultado de una Función con Texto:
 
 ```
 &
@@ -80,6 +80,63 @@ Alt +100=d ...<br>
 <p align="justify">
 	Para poner un texto ameno que presidente a nuestro resultado bastara con poner: <i>el texto entre comillas</i> <b>&</b> <i>formula()</i>
 </p>
+
+* Integrando
+
+```
+=CARACTER(ALEATORIO.ENTRE(65,90))&CARACTER(ALEATORIO.ENTRE(65,90))&ALEATORIO.ENTRE(1,10)
+```
+
+	1. Entre <b>65:90</b> porque son las letras Mayusculas
+	2. Generamos dos letras <i>Aleatorias</i> y un número entre 1 y 10 para generar su nombre.
+
+#### N Parcial
+
+Bastara usar la función:
+
+```
+=ALEATORIO.ENTRE(0,10)
+```
+
+#### Total
+
+Usaremos:
+
+```
+=REDONDEAR(PROMEDIO(celda1, celda2, celda3),0)
+```
+
+<p align="justify">
+El <i>PROMEDIO</i> nos regresa valores con <i>punto decimal</i> podríamos dejarlos o no. Para este caso práctico <b>redondearemos</b> con la función <i>REDONDEAR</i>.
+</p>
+
+<p align="justify">
+La función <b>REDONDEAR</b> funciona redondeando igual o mayor a <i>.5</i> redonda hacia <i>ARRIBA</i> y <i>menor</i> a <i>.5</i> hacia abajo. Ejemplo:
+</p>
+
+<p align="center">
+<b>4.5</b> será <i>5</i>
+<b>4.4</b> será <i>4</i>
+<b>4.8</b> será <i>5</i>
+</p>
+
+<p align="justify">
+La función <i>REDONDEAR</i> nos pide dos <i>argumentos</i> en la función <i>=REDONDEAR(número, num_decimales)</i>.
+<b>número</b> hace clara referencia a número que queremos redondear.
+<b>num_decimales</b> hasta que número queremos <b>truncar</b> para empezar el redondeo. Ejemplo:
+</p>
+
+<p align="center">
+<i>=REDONDEAR(3.14159265,4)</i> será <b>3.1416</b>
+</p>
+
+<p align="justify">
+pues contó 4 dígitos después del punto, y ese número que corresponde al <b>4to número</b> lo usa para <i>redondear</i>.
+</p>
+
+
+
+
 
 
 
