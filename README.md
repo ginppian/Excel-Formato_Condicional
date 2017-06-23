@@ -150,6 +150,8 @@ Shift (⇧) + Ctrl + Espacio
 
 <p align="justify">
 <i>Inicio > Estilos > Dar formato como tabla</i>
+
+Seleccionamos estilo de tabla cool 😎 
 </p>
 
 
