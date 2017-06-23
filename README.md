@@ -201,7 +201,7 @@ Vamos a <i>Administrar Reglas</i>
 </p>
 
 <p align="justify">
-	Podemos trabajar con: 2 colores, 3 colores, iconos, etc. Seleccionaremos <i>conjunto de iconos</i>
+	Podemos trabajar con: 2 colores, 3 colores, iconos, etc. Seleccionaremos: <i>conjunto de iconos</i>
 </p>
 
 <p align="center">
@@ -236,6 +236,12 @@ Podemos ver:
 
 <p align="center">
 	 <img src="https://github.com/ginppian/Excel-Formato_Condicional/blob/master/imgs/img10.png" width="1211" height="450"> 
+</p>
+
+<b>Voilá</b> 👨🏻‍🍳👨🏻‍🍳👨🏻‍🍳
+
+<p align="justify">
+	Como te puedes dar cuenta está ¡Sencillo! aviéntate a hacer las cosas. 🤓
 </p>
 
 ## Contacto
