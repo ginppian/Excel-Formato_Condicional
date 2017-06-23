@@ -78,7 +78,7 @@ Alt +100=d ...<br>
 ```
 
 <p align="justify">
-	Para poner un texto ameno que explique un resultado bastara con poner: <i>el texto entre comillas</i> <b>&</b> <i>formula()</i>
+	Para poner un texto ameno que presidente a nuestro resultado bastara con poner: <i>el texto entre comillas</i> <b>&</b> <i>formula()</i>
 </p>
 
 
