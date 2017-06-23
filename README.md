@@ -87,8 +87,8 @@ Alt +100=d ...<br>
 =CARACTER(ALEATORIO.ENTRE(65,90))&CARACTER(ALEATORIO.ENTRE(65,90))&ALEATORIO.ENTRE(1,10)
 ```
 
-	1. Entre <b>65:90</b> porque son las letras Mayusculas
-	2. Generamos dos letras <i>Aleatorias</i> y un número entre 1 y 10 para generar su nombre.
+	1. Elegimos el rango entre 65 y 90 porque son las letras Mayusculas.
+	2. Generamos dos letras Aleatorias y un número entre 1 y 10 para generar su nombre.
 
 #### 3. N Parcial
 
@@ -153,6 +153,7 @@ Shift (⇧) + Ctrl + Espacio
 
 Seleccionamos estilo de tabla cool 😎 
 </p>
+
 
 
 
