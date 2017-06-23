@@ -116,9 +116,9 @@ Ejemplo:
 </p>
 
 <p align="center">
-<b>4.5</b> será <i>5</i>
-<b>4.4</b> será <i>4</i>
-<b>4.8</b> será <i>5</i>
+<b>4.5</b> será <i>5</i><br>
+<b>4.4</b> será <i>4</i><br>
+<b>4.8</b> será <i>5</i><br>
 </p>
 
 <p align="justify">
