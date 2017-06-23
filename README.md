@@ -71,5 +71,16 @@ Alt +100=d ...<br>
 	 <img src="https://github.com/ginppian/Excel-Formato_Condicional/blob/master/imgs/img2.jpg" width="800" height="558"> 
 </p>
 
+* Concatener el Resultado de una Función con Texto:
+
+```
+&
+```
+
+<p align="justify">
+	Para poner un texto ameno que explique un resultado bastara con poner: <i>el texto entre comillas</i> <b>&</b> <i>formula()</i>
+</p>
+
+
 
 
