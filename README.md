@@ -227,7 +227,7 @@ Podemos ver:
 ```
 
 <p align="justify">
-	Las <b>$</b> indican que esa <i>referencia</i> <b>NO se moverá</b>. Es decir, que el <i>FORMATO CONDICIONAL</i> sólo se aplicará a esa celda, si queremos <i>recorrer</i> a las demás celdas, bastará con quitarle las <b>$</b> y darle aceptar, o picar el la <i>flechita</i> y con el mouse seleccionar todas las celdas que queramos que tengan esa <i>regla</i>.
+	Las <b>$</b> indican que esa <i>referencia</i> <b>NO se moverá</b>. Es decir, que el <i>FORMATO CONDICIONAL</i> sólo se aplicará a esa celda. Si queremos <i>recorrer</i> a las demás celdas, bastará con quitarle las <b>$</b> y darle aceptar, o picar el la <i>flechita</i> y con el mouse seleccionar todas las celdas que queramos que tengan esa <i>regla</i>.
 </p>
 
 <p align="justify">
