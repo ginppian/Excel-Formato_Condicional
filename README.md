@@ -241,7 +241,7 @@ Podemos ver:
 <b>Voilá</b> 👨🏻‍🍳👨🏻‍🍳👨🏻‍🍳
 
 <p align="justify">
-	Como te puedes dar cuenta ¡es sencillo! aviéntate a hacer las cosas. 🤓
+	Cómo te puedes dar cuenta ¡es sencillo! aviéntate a hacer las cosas. 🤓
 </p>
 
 ## Contacto
