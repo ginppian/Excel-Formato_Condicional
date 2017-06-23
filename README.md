@@ -122,10 +122,13 @@ Ejemplo:
 </p>
 
 <p align="justify">
-La función <i>REDONDEAR</i> nos pide dos <i>argumentos</i> en la función <i>=REDONDEAR(número, num_decimales)</i>.<br>
-<b>número</b> hace clara referencia a número que queremos redondear.<br>
-<b>num_decimales</b> hasta que número queremos <b>truncar</b> para empezar el redondeo.<br> Ejemplo:
-</p>
+La función <i>REDONDEAR</i> nos pide dos <i>argumentos</i> en la función <i>=REDONDEAR(número, num_decimales)</i>.<br></p>
+
+1. <b>número</b> hace clara referencia a número que queremos redondear.
+2. <b>num_decimales</b> hasta que número queremos <b>truncar</b> para empezar el redondeo.
+
+Ejemplo:
+
 
 <p align="center">
 <i>=REDONDEAR(3.14159265,4)</i> será <b>3.1416</b>
