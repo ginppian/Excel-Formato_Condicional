@@ -11,9 +11,9 @@ Formato Condicional
 
 <p align="justify">
 	Hola, Soy profesor de la clase de <i>Matemáticas</i> en el instituto Pato. 
-Mi salón está conformado por 50 alumnos, los cuales presentan 3 exámenes parciales a lo largo del semestre. Me gustaría poder ver en colores: los que reprueban, los que apenas y pasan con un 6 o un 7 y los que sacan al menos 8 o superior. Así mismo si un alumno saco 10 en los 3 exámenes me gustaría ver su nombre remarcado de otro color tal vez morado.
+Mi salón está conformado por 50 alumnos, los cuales presentan 3 exámenes parciales a lo largo del semestre. Me gustaría poder ver en colores: los que reprobaron, los que apenas y pasaron (6 o 7) y los que sacan al menos 8 o superior.
 
-Quiero que me enseñen una muestra <i>simulada</i> sin datos reales de como funcionaría la hoja de Excel, para poder comprarla, gracias.
+Me gustaría que me enseñen una <i>simulación</i> de como funcionaría la hoja de Excel, para poder comprarla 100% convencido, gracias.
 </p>
 
 ### A. Simulación
